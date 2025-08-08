@@ -14,4 +14,5 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run Duplicate Code Detection Tool
-        uses: platisd/duplicate-code-detection-tool@v1.0.0
+        uses: platisd/duplicate-code-detection-tool@main
+        
