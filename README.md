@@ -1,6 +1,3 @@
-# FaceFusion
-Open Source Video Face Swap Application - AI-powered face swapping using React + Roop engine
-
 # FaceFusion - Open Source Video Face Swap Application
 
 ![FaceFusion Logo](https://via.placeholder.com/400x200/0D1117/00A3FF?text=FaceFusion)
