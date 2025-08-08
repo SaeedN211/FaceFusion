@@ -8,7 +8,7 @@ The fastest way to try FaceFusion:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/facefusion.git
+git clone https://github.com/SaeedN211/facefusion.git
 cd facefusion
 
 # Install dependencies
